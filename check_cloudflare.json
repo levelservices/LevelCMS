@@ -1,14 +1,9 @@
 {
-  "usuarios": [
+  "LevelCMS_config": [
     {
-      "id": 1,
-      "nombre": "Juan",
-      "edad": 30
-    },
-    {
-      "id": 2,
-      "nombre": "Ana",
-      "edad": 25
+      "token1": 1
+   
     }
+   
   ]
 }
